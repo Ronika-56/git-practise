@@ -1,0 +1,19 @@
+Index: index2.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <title>Lorem ipsum </title>\n</head>\n<body>\n<h4>Lorem ipsum dolor sit amet.</h4>\n<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur, consequatur dolorem harum omnis quisquam reprehenderit.</p>\n\n\n<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque, odio.</p>\n\n\n\n\n</body>\n</html>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/index2.html b/index2.html
+--- a/index2.html	(revision d58bc74750296db58ccde9c17dda87245470a4c8)
++++ b/index2.html	(date 1741158662644)
+@@ -10,7 +10,7 @@
+ 
+ 
+ <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque, odio.</p>
+-
++<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus accusantium dolorum id laboriosam maiores pariatur quam, quibusdam temporibus ut. Hic?</p>
+ 
+ 
+ 
