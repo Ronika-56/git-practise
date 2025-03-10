@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ecabcd62-7501-4f05-8a86-2fff59837e99" name="Changes" comment="Added content">
-      <change afterPath="$PROJECT_DIR$/Fonts.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/responsive.html" beforeDir="false" afterPath="$PROJECT_DIR$/responsive.html" afterDir="false" />
-    </list>
+    <list default="true" id="ecabcd62-7501-4f05-8a86-2fff59837e99" name="Changes" comment="Added content" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -116,7 +112,7 @@
       <workItem from="1741324342877" duration="9081000" />
       <workItem from="1741586137404" duration="13000" />
       <workItem from="1741586556814" duration="1478000" />
-      <workItem from="1741588186808" duration="5189000" />
+      <workItem from="1741588186808" duration="5901000" />
     </task>
     <task id="LOCAL-00001" summary="Added a file">
       <option name="closed" value="true" />
@@ -246,7 +242,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741586902022</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Added content">
+      <option name="closed" value="true" />
+      <created>1741594078138</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1741594078138</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
