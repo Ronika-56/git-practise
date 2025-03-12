@@ -5,14 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ecabcd62-7501-4f05-8a86-2fff59837e99" name="Changes" comment="Added content">
-      <change afterPath="$PROJECT_DIR$/css/sarova.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pexels-cesarperez209-733745.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pexels-charles-kettor-268979-831475.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pexels-garvin-st-villier-719266-3311574.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pexels-mikebirdy-244206.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sarova.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Youtube.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/instagram.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ticktock.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/intro.html" beforeDir="false" afterPath="$PROJECT_DIR$/intro.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/sarova.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/sarova.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sarova.html" beforeDir="false" afterPath="$PROJECT_DIR$/sarova.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,23 +55,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/emobilis/Desktop/git-practice/images",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "JavaScript.Libraries",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/emobilis/Desktop/git-practice/images&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;JavaScript.Libraries&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/images" />
@@ -131,7 +130,9 @@
       <workItem from="1741586556814" duration="1478000" />
       <workItem from="1741588186808" duration="6020000" />
       <workItem from="1741605471056" duration="12000" />
-      <workItem from="1741671328292" duration="8232000" />
+      <workItem from="1741671328292" duration="8547000" />
+      <workItem from="1741693001895" duration="11000" />
+      <workItem from="1741755038276" duration="9214000" />
     </task>
     <task id="LOCAL-00001" summary="Added a file">
       <option name="closed" value="true" />
@@ -277,7 +278,23 @@
       <option name="project" value="LOCAL" />
       <updated>1741594152202</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Added content">
+      <option name="closed" value="true" />
+      <created>1741679795659</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1741679795659</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Added content">
+      <option name="closed" value="true" />
+      <created>1741679834548</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1741679834548</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
