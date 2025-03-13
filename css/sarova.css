@@ -1,3 +1,7 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Emblema+One&family=Playwrite+HU:wght@100..400&family=Rock+Salt&display=swap');
+
+
 .hero {
     background: url("../images/pexels-mikebirdy-244206.jpg");
     background-repeat: no-repeat;
@@ -7,4 +11,44 @@
 
 .social img{
     width: 32px;
+
 }
+
+
+.emblema-one-regular {
+  font-family: "Emblema One", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.playwrite> {
+  font-family: "Playwrite HU", cursive;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+               .rock-salt-regular {
+  font-family: "Rock Salt", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.special-red{
+    color: #d31e1e;
+}
+
+/*bootstrapstudio.io*/
+/*designmodo.com*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
